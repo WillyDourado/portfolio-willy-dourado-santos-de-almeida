@@ -68,29 +68,3 @@ Abaixo, a organização deste repositório para facilitar a navegação:
 - `/projeto-nome/`: Pasta contendo o código-fonte, documentação e o README específico do projeto acadêmico.
 
 
-# 🌡️ Analisador de Microclima Local e Qualidade do Ar (IAQ)
-
-## 📝 Descrição do Projeto
-Este projeto consiste em um sistema de monitoramento ambiental desenvolvido em **Python** para analisar e classificar dados de microclima. O software processa variáveis como temperatura, umidade e o índice **IAQ (Indoor Air Quality)** de diferentes localidades para gerar diagnósticos de saúde ambiental e uma nota de conforto personalizada.
-
-Desenvolvido como parte de estudos em **Lógica de Programação e Prototipagem**, o sistema demonstra o uso prático de estruturas de controle modernas (como o `match-case`) e a criação de algoritmos matemáticos para a normalização de métricas de bem-estar humano.
-
-## 🚀 Tecnologias Utilizadas
-* **Linguagem:** Python 3.10+
-* **Conceitos:** Programação Funcional, Estruturas de Decisão Avançadas, Processamento de Listas.
-* **Ferramentas:** IDE PyCharm / VS Code.
-
-## 📊 Lógica de Funcionamento e Resultados
-O sistema utiliza uma abordagem quantitativa para avaliar o ambiente:
-
-* **Classificação de Saúde:** O índice IAQ é categorizado automaticamente em níveis que variam de "Boa" até "Extremamente Insalubre", auxiliando na identificação de riscos para grupos sensíveis.
-* **Algoritmo de Conforto:** Implementação de uma fórmula de penalidade que subtrai pontos de uma nota máxima (10.0) com base no desvio das condições ideais (20°C e 40% de umidade).
-* **Análise Multilocal:** O código é capaz de iterar sobre grandes listas de dados, permitindo a comparação rápida entre diferentes regiões (como Itaquaquecetuba, Guarulhos e Carrão).
-
-## 🔧 Como Executar
-1. Certifique-se de ter o **Python 3.10** ou superior instalado.
-2. Clone o repositório ou baixe o arquivo `emp5.py`.
-3. Abra o terminal na pasta do arquivo.
-4. Execute o comando:
-   ```bash
-   python emp5.py
