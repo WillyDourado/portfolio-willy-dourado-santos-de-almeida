@@ -56,7 +56,7 @@ novembro de 2023 - Present
 | :--- | :--- | :---: |
 | **Engenharia de soluções lógicas** | Desenvolver uma solução algorítimica para um problema complexo do mundo real. | [Ver Projeto](ESL/Conheça_o_Colab.ipynb) 
 | **O Algoritmo de Auditoria de Dados** |  Desenvolver um programa que analise a consistência de dados financeiros, utilizando escopo global/local para parâmetros de segurança e lógica condicional para detecção de anomalias. | [Ver Projeto](AAD/Algoritmo-de-auditoria-de-dados.ipynb)
- 
+| **Traduzindo Lógica para Python** |  código equivalente em Python. | [Ver Projeto]()
 
  
 ---
