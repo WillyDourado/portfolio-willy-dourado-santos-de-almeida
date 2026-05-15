@@ -51,15 +51,13 @@ novembro de 2023 - Present
  
 ### 📂 Portfólio de Projetos
  
-#### 🗃️ Modelagem de Banco de Dados
+#### 🗃️ Programção de computadores 
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
 | **Engenharia de soluções lógicas** | Desenvolver uma solução algorítimica para um problema complexo do mundo real. | [Ver Projeto](ESL/Conheça_o_Colab.ipynb) 
+| **O Algoritmo de Auditoria de Dados** |  Desenvolver um programa que analise a consistência de dados financeiros, utilizando escopo global/local para parâmetros de segurança e lógica condicional para detecção de anomalias. | [Ver Projeto] (  )
  
-#### 🤖 Inteligência Artificial
-| Projeto | Descrição | Link |
-| :--- | :--- | :---: |
-| **Predição de Churn** | Algoritmo de classificação para prever saída de clientes. | [Ver Projeto](./projeto-ia-churn/) |
+
  
 ---
  
