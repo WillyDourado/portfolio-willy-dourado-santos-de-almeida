@@ -54,7 +54,7 @@ novembro de 2023 - Present
 #### 🗃️ Modelagem de Banco de Dados
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Engenharia de soluções lógicas** | Desenvolver uma solução algorítimica para um problema complexo do mundo real. | [Ver Projeto](https://colab.research.google.com/notebooks/intro.ipynb) |
+| **Engenharia de soluções lógicas** | Desenvolver uma solução algorítimica para um problema complexo do mundo real. | [Ver Projeto](https://Conheça_o_Colab.ipynb) |
  
 #### 🤖 Inteligência Artificial
 | Projeto | Descrição | Link |
